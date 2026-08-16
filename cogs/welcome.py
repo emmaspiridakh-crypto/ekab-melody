@@ -1,12 +1,3 @@
-"""
-cogs/welcome.py
-----------------
-Welcome message σε Components V2 όταν μπαίνει κάποιος στο server.
-- Banner (static, από config) + thumbnail = avatar του νέου member
-- Mention του member
-- Σύνολο members του server
-"""
-
 from __future__ import annotations
 
 import discord
