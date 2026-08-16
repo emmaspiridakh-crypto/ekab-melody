@@ -29,7 +29,6 @@ bot = commands.Bot(command_prefix="!", intents=intents, help_command=None)
 EXTENSIONS = [
     "cogs.tickets",
     "cogs.duty",
-    "cogs.dmall",
     "cogs.autorole",
     "cogs.logging_cog",
 ]
