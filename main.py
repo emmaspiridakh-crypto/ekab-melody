@@ -31,6 +31,7 @@ EXTENSIONS = [
     "cogs.duty",
     "cogs.autorole",
     "cogs.logging_cog",
+    "cogs.say",
 ]
 
 @bot.event
